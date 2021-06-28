@@ -18,11 +18,4 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
 #### 🏊‍♂️ <a href="https://gist.github.com/Saika-Z/89c7e5767c4f69d8b2f77a9133ed92fc" target="_blank">Weekly Development Breakdown</a>
 
-<!-- code_time starts -->
 
-
-```
-
-<!-- code_time ends -->
-  </td>
-    </tr>
