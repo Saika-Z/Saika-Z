@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <tr>
 <td valign="top" width="50%">
-#### 🏊‍♂️ <a href="https://gist.github.com/Saika-Z/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" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️ <a href="https://gist.github.com/Saika-Z/af515579e9ab638d1de80d38175d2881" target="_blank">Weekly Development Breakdown</a>
 
 
