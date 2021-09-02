@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
 #### 🏊‍♂️ <a href="https://gist.github.com/Saika-Z/af515579e9ab638d1de80d38175d2881" target="_blank">Weekly Development Breakdown</a>
   <hr>
-  <p>
+  <p align="center">
 <img src="https://wakatime.com/share/@vincentzhao/715da53e-a50f-44f9-baf4-079ca482bf0f.svg" height="400"/>
   </p>
 </hr>
