@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <tr>
   <!-- Social Section -->
 <p align="center">
+  <!--
   <a href= "https://github.com/tallguyjenks/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
     <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
   </a>
-
+-->
  --- 
 </p>
 <td valign="top" width="50%">
