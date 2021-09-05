@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <details>
     <summary>Lanaguage Statistics======></summary>
   <p align="center">
-<img src="https://wakatime.com/share/@vincentzhao/715da53e-a50f-44f9-baf4-079ca482bf0f.svg" height="400"/>
+<img src="https://wakatime.com/share/@vincentzhao/5b25972c-7723-435b-b24f-ab53817e2201.svg" height="400"/>
   </p>
   </details>
 </hr>
