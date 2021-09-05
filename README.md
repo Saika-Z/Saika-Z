@@ -62,9 +62,18 @@ Here are some ideas to get you started:
 #### 🏊‍♂️ <a href="https://gist.github.com/Saika-Z/af515579e9ab638d1de80d38175d2881" target="_blank">Weekly Development Breakdown</a>
   <hr>
   <details>
-    <summary>Lanaguage Statistics======></summary>
+    <summary>Coding Activity======></summary>
   <p align="center">
 <img src="https://wakatime.com/share/@vincentzhao/5b25972c-7723-435b-b24f-ab53817e2201.svg" height="400"/>
+  </p>
+  </details>
+</hr>
+
+  <hr>
+  <details>
+    <summary>Lanaguage Statistics======></summary>
+  <p align="center">
+<img src="https://wakatime.com/share/@vincentzhao/10cbd6e1-ebcf-4631-91f1-2224534a638a.svg" height="400"/>
   </p>
   </details>
 </hr>
