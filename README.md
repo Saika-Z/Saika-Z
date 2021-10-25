@@ -60,6 +60,11 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
   
 #### 🏊‍♂️ <a href="https://gist.github.com/Saika-Z/af515579e9ab638d1de80d38175d2881" target="_blank">Weekly Development Breakdown</a>
+  
+  ### ⚡ Fun fact: ...
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
   <hr>
   <details>
     <summary>Coding Activity======></summary>
@@ -68,6 +73,7 @@ Here are some ideas to get you started:
   </p>
   </details>
 </hr>
+
 
   <hr>
   <details>
