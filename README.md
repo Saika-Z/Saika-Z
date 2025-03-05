@@ -15,13 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning NLP​🧩​
-- 📫 How to reach me:[<img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png" align="center" width="20" height="20" style="vertical-align:middle"/>]("https://github.com/Saika-Z/)
+- 📫 How to reach me: 
+  <a href= "https://github.com/Saika-Z/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"  align="center" width="20" height="20"/>
+  </a><a href= "https://twitter.com/Saika_Zh">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"  align="center" width="20" height="20"/>
+  </a>
 - ⚡ Fun fact:<a href="https://gist.github.com/Saika-Z/74509e3972291ac0a5f8a6fda639e607" target="_blank">Weekly Development Breakdown</a>
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 <!--Platform&Tools-->
 [![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -32,7 +38,7 @@ Here are some ideas to get you started:
 
 </td>
 <td valign="top" width="50%">
-  🏊‍♂️<a href="https://github.com/anuraghazra/github-readme-stats">
+  🔄<a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saika-Z&layout=donut"/>
       </a>
 </td>
@@ -40,7 +46,7 @@ Here are some ideas to get you started:
   <!-- Social Section -->
 <p align="center">
   <!--
-  <a href= "https://github.com/Saika-Z/">
+  <a href= "https://github.com/bryanjenks/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/bryanjenks/">
