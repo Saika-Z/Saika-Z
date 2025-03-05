@@ -14,11 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning NLP​🧩​
+- 📫 How to reach me:[<img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png" align="center" width="20" height="20" style="vertical-align:middle"/>]("https://github.com/Saika-Z/)
+- ⚡ Fun fact:<a href="https://gist.github.com/Saika-Z/74509e3972291ac0a5f8a6fda639e607" target="_blank">Weekly Development Breakdown</a>
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+<!--Platform&Tools-->
+[![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+<table>
 <tr>
+<td valign="top" width="50%">
+  <!-- waka-box start -->
+ <a href="https://gist.github.com/Saika-Z/b03a8abcd73cb837b741fe4fe1ad5997" target="_blank">📊 Weekly development breakdown</a>
+  
+  <!-- waka-box end -->
+
+</td>
+<td valign="top" width="50%">
+  🏊‍♂️<a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saika-Z&layout=donut"/>
+      </a>
+</td>
+</table>
   <!-- Social Section -->
 <p align="center">
   <!--
-  <a href= "https://github.com/tallguyjenks/">
+  <a href= "https://github.com/Saika-Z/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/bryanjenks/">
@@ -54,18 +76,11 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
     <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
   </a>
--->
- --- 
+  -->
 </p>
-<td valign="top" width="50%">
-  
-#### 🏊‍♂️ <a href="https://gist.github.com/Saika-Z/af515579e9ab638d1de80d38175d2881" target="_blank">Weekly Development Breakdown</a>
-  
-  ### ⚡ Fun fact: ...
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 
-<!--   <hr>
+<!--
+<hr>
   <details>
     <summary>Coding Activity======></summary>
   <p align="center">
@@ -73,14 +88,10 @@ Here are some ideas to get you started:
   </p>
   </details>
 </hr>
-
-
-  <hr>
-  <details>
-    <summary>Lanaguage Statistics======></summary>
+<hr>
   <p align="center">
-<img src="https://wakatime.com/share/@vincentzhao/10cbd6e1-ebcf-4631-91f1-2224534a638a.svg" height="400"/>
+    <img src="https://wakatime.com/share/@vincentzhao/10cbd6e1-ebcf-4631-91f1-2224534a638a.svg" height="300"/>
   </p>
-  </details>
 </hr>
- -->
+
+
