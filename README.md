@@ -35,11 +35,13 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td valign="top" width="50%">
+  
 <!-- waka-box start -->
 <!-- waka-box end -->
 
 </td>
 <td valign="top" width="50%">
+  
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/74509e3972291ac0a5f8a6fda639e607" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
@@ -51,7 +53,9 @@ Here are some ideas to get you started:
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
 </td>
+</tr>
 </table>
 
 <!-- Social Section -->
