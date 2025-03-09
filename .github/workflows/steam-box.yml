@@ -15,7 +15,7 @@ jobs:
     environment: fl_steambox
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN_ST }}
       GIST_ID: 74509e3972291ac0a5f8a6fda639e607
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
