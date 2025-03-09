@@ -41,6 +41,15 @@ Here are some ideas to get you started:
 </td>
 <td valign="top" width="50%">
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/74509e3972291ac0a5f8a6fda639e607" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+⚔️ Dota 2                           🕘 2688 hrs 26 mins
+🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 552 hrs 22 mins
+🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 414 hrs 25 mins
+🎮 NOBUNAGA'S AMBITION: Souzou      🕘 147 hrs 5 mins
+🎮 Persona 5 Royal                  🕘 138 hrs 23 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 </td>
 </table>
