@@ -10,7 +10,7 @@ on:
       - master
   schedule:
     #- cron: "5 0 * * *"  # 每天 UTC 05:00 运行
-    - cron: "*/5 * * * *"  # 调试用，正式使用改为 "0 0 * * *"
+    - cron: "*/15 * * * *"  # 调试用，正式使用改为 "0 0 * * *"
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN_WA }}
       GIST_ID: b03a8abcd73cb837b741fe4fe1ad5997
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
