@@ -15,6 +15,7 @@ on:
 jobs:
   build:
     name: Update-gist
+    environment: fl_wakabox
     runs-on: ubuntu-latest
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
