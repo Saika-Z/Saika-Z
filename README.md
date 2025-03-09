@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="50%">
   <!-- waka-box start -->
- <a href="https://gist.github.com/Saika-Z/b03a8abcd73cb837b741fe4fe1ad5997" target="_blank">📊 Weekly development breakdown</a>
   
   <!-- waka-box end -->
 
