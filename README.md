@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### About me
 - 🌱 I’m currently learning NLP​🧩​
 - 📫 How to reach me: 
   <a href= "https://github.com/Saika-Z/">
@@ -21,12 +22,15 @@ Here are some ideas to get you started:
   </a><a href= "https://twitter.com/Saika_Zh">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"  align="center" width="20" height="20"/>
   </a>
-- ⚡ Fun fact:<a href="https://gist.github.com/Saika-Z/74509e3972291ac0a5f8a6fda639e607" target="_blank">Weekly Development Breakdown</a>
+- ⚡ Fun fact:
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-<!--Platform&Tools-->
+
+
+#### Platform&Tools
 [![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+
 
 <table>
 <tr>
@@ -84,19 +88,5 @@ Here are some ideas to get you started:
   -->
 </p>
 
-<!--
-<hr>
-  <details>
-    <summary>Coding Activity======></summary>
-  <p align="center">
-<img src="https://wakatime.com/share/@vincentzhao/5b25972c-7723-435b-b24f-ab53817e2201.svg" height="400"/>
-  </p>
-  </details>
-</hr>
-<hr>
-  <p align="center">
-    <img src="https://wakatime.com/share/@vincentzhao/10cbd6e1-ebcf-4631-91f1-2224534a638a.svg" height="300"/>
-  </p>
-</hr>
 
 
