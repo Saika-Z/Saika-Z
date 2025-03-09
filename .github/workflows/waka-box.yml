@@ -3,11 +3,9 @@ name: Update gist with WakaTime stats
 
 on:
   push:
-    branches:
-      - master
+     branches: [master]
   pull_request:
-    branches:
-      - master
+     branches: [master]
   schedule:
     #- cron: "5 0 * * *"  # 每天 UTC 05:00 运行
     - cron: "*/5 * * * *"  # 调试用，正式使用改为 "0 0 * * *"
@@ -15,7 +13,6 @@ on:
 jobs:
   build:
     name: Update-gist
-    environment: fl_wakabox
     runs-on: ubuntu-latest
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -38,6 +35,7 @@ jobs:
       - uses: actions/setup-go@v4
         with:
           go-version: '1.20'
+          
       - name: Clone and run waka-box
         run: |-
           git clone https://github.com/Saika-Z/waka-box-go.git 
