@@ -11,6 +11,7 @@ on:
 jobs:
   build:
     name: Update-steam-playtime
+    environment: fl_steambox
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
