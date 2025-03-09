@@ -35,20 +35,22 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td valign="top" width="50%">
-  <!-- waka-box start -->
-  
-  <!-- waka-box end -->
+<!-- waka-box start -->
+<!-- waka-box end -->
 
 </td>
 <td valign="top" width="50%">
-  🔄<a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saika-Z&layout=donut"/>
-      </a>
+<!-- steam-box start -->
+<!-- steam-box end -->
 </td>
 </table>
-  <!-- Social Section -->
-<p align="center">
-  <!--
+
+<!-- Social Section -->
+ <!--
+ 🔄<a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saika-Z&layout=donut"/>
+      </a>
+
   <a href= "https://github.com/bryanjenks/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
@@ -85,8 +87,7 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
     <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
   </a>
-  -->
-</p>
+ -->
 
 
 
