@@ -6,8 +6,8 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: "0 4 * * 0/1" #Runs at 04:00, Sunday through Saturday.
-    #- cron: "*/10 * * * *"
+    #- cron: "0 4 * * 0/1" #Runs at 04:00, Sunday through Saturday.
+    - cron: "*/10 * * * *"
 
 jobs:
   build:
