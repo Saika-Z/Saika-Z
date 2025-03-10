@@ -37,6 +37,15 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
   
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/b03a8abcd73cb837b741fe4fe1ad5997" target="_blank">📊 Weekly development breakdown</a>
+```text
+Python   🕓 2 hrs 23 mins ███████▉░░░░░░░░░░░░░ 37.5%
+Go       🕓 2 hrs 14 mins ███████▍░░░░░░░░░░░░░ 35.1%
+Text     🕓 55 mins       ███░░░░░░░░░░░░░░░░░░ 14.5%
+Markdown 🕓 33 mins       █▊░░░░░░░░░░░░░░░░░░░  8.9%
+YAML     🕓 15 mins       ▊░░░░░░░░░░░░░░░░░░░░  4.0%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 </td>
