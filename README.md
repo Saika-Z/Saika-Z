@@ -55,7 +55,7 @@ Other  🕓 0 secs        ░░░░░░░░░░░░░░░░░░
 ⚔️ Dota 2                           🕘 2688 hrs 33 mins
 🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 552 hrs 50 mins
 🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 414 hrs 25 mins
-🎮 NOBUNAGA'S AMBITION: Souzou      🕘 161 hrs 8 mins
+🎮 NOBUNAGA'S AMBITION: Souzou      🕘 165 hrs 39 mins
 🎮 Persona 5 Royal                  🕘 138 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
