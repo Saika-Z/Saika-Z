@@ -50,7 +50,7 @@ Python 🕓 14 mins ████████████████████
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/74509e3972291ac0a5f8a6fda639e607" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-⚔️ Dota 2                           🕘 2702 hrs 11 mins
+⚔️ Dota 2                           🕘 2706 hrs 51 mins
 🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 552 hrs 50 mins
 🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 414 hrs 25 mins
 🎮 NOBUNAGA'S AMBITION: Souzou      🕘 191 hrs 50 mins
