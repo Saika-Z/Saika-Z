@@ -55,7 +55,7 @@ Git Config 🕓 39 mins      █░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/74509e3972291ac0a5f8a6fda639e607" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 ⚔️ Dota 2                           🕘 2751 hrs 11 mins
-🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 884 hrs 39 mins
+🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 884 hrs 46 mins
 🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 652 hrs 24 mins
 🎮 NOBUNAGA'S AMBITION: Souzou      🕘 193 hrs 36 mins
 🎮 Persona 5 Royal                  🕘 138 hrs 26 mins
