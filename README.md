@@ -56,7 +56,7 @@ TOML   🕓 0 secs       ░░░░░░░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 2751 hrs 11 mins
 🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 887 hrs 26 mins
-🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 704 hrs 4 mins
+🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 708 hrs 49 mins
 🎮 NOBUNAGA'S AMBITION: Souzou      🕘 193 hrs 36 mins
 🎮 Persona 5 Royal                  🕘 138 hrs 26 mins
 ```
