@@ -58,7 +58,7 @@ TOML   🕓 0 secs       ░░░░░░░░░░░░░░░░░░�
 🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 901 hrs 15 mins
 🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 710 hrs 10 mins
 🎮 NOBUNAGA'S AMBITION: Souzou      🕘 193 hrs 36 mins
-🎮 Persona 5 Royal                  🕘 138 hrs 26 mins
+🎮 Romance of the Three Kingdoms XIII 🕘 141 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
