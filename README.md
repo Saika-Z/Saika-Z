@@ -56,9 +56,9 @@ JavaScript 🕓 12 mins       ▎░░░░░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 2751 hrs 11 mins
 🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 901 hrs 15 mins
-🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 710 hrs 10 mins
+🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 710 hrs 18 mins
 🎮 NOBUNAGA'S AMBITION: Souzou      🕘 193 hrs 36 mins
-🎮 Romance of the Three Kingdoms XIII 🕘 141 hrs 44 mins
+🎮 Romance of the Three Kingdoms XIII 🕘 143 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
