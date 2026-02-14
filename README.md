@@ -51,8 +51,8 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/74509e3972291ac0a5f8a6fda639e607" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 ⚔️ Dota 2                           🕘 2751 hrs 11 mins
-🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 901 hrs 15 mins
-🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 787 hrs 47 mins
+🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 907 hrs 3 mins
+🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 792 hrs 48 mins
 🎮 NOBUNAGA'S AMBITION: Souzou      🕘 193 hrs 36 mins
 🎮 Romance of the Three Kingdoms XIII 🕘 143 hrs 20 mins
 ```
