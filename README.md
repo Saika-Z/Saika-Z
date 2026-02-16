@@ -52,7 +52,7 @@ Still Gathering Statistics...
 ```text
 ⚔️ Dota 2                           🕘 2751 hrs 11 mins
 🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 907 hrs 3 mins
-🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 792 hrs 48 mins
+🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 796 hrs 57 mins
 🎮 NOBUNAGA'S AMBITION: Souzou      🕘 193 hrs 36 mins
 🎮 Romance of the Three Kingdoms XIII 🕘 143 hrs 20 mins
 ```
