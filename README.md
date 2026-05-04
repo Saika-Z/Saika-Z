@@ -58,7 +58,7 @@ Git Config 🕓 0 secs  ░░░░░░░░░░░░░░░░░░�
 🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 907 hrs 3 mins
 🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 828 hrs 28 mins
 🎮 NOBUNAGA'S AMBITION: Souzou      🕘 193 hrs 57 mins
-🎮 Romance of the Three Kingdoms XIII 🕘 143 hrs 20 mins
+🎮 Romance of the Three Kingdoms XIII 🕘 143 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
