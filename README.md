@@ -57,7 +57,7 @@ Git Config 🕓 0 secs  ░░░░░░░░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 2751 hrs 11 mins
 🎮 ROMANCE OF THE THREE KINGDOMS XIV 🕘 907 hrs 3 mins
 🎮 Romance of the Three Kingdoms XI with Power Up Kit 🕘 828 hrs 28 mins
-🎮 NOBUNAGA'S AMBITION: Souzou      🕘 196 hrs 53 mins
+🎮 NOBUNAGA'S AMBITION: Souzou      🕘 198 hrs 45 mins
 🎮 Romance of the Three Kingdoms XIII 🕘 143 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
